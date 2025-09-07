@@ -1,5 +1,5 @@
 2<div align="center">
-  <img src="/kivotos.png" alt="KivotOS" />
+  <img src="/logo.png" alt="Blue Archive Linux" />
   
   [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/minhmc2007/Blue-Archive-Linux)
  [![Architecture](https://img.shields.io/badge/Architecture-x86__64-ff6b6b?style=for-the-badge&logo=debian&logoColor=white)](#)
@@ -178,16 +178,84 @@ bluepm update-cache
 
 ## 🎯 System Requirements
 
+### 💻 **General Requirements**
+
 <div align="center">
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| 🧠 **CPU** | 64-bit x86_64 | Multi-core |
-| 🧮 **RAM** | 512MB | 4GB+ |
-| 💾 **Storage** | 10GB | 20GB+ |
-| 📀 **Boot** | USB 2.0 | USB 3.0+ |
+| 🧠 **CPU** | 64-bit x86_64 dual-core 2.0GHz | Quad-core 2.5GHz+ |
+| 🧮 **RAM** | 2GB | 4GB+ |
+| 💾 **Storage** | 20GB free space | 40GB+ |
+| 🎮 **Graphics** | Integrated graphics | Dedicated GPU with 1GB+ VRAM |
 
 </div>
+
+### 🎮 **Graphics Card Recommendations**
+
+<div align="center">
+
+| Category | Examples | Performance |
+|----------|----------|-------------|
+| **Integrated** | Intel UHD 620+, AMD Vega 8+ | Basic desktop, light gaming |
+| **Entry Level** | GTX 1050, RX 560, GTX 1650 | Good desktop, moderate gaming |
+| **Mid Range** | GTX 1660, RX 580, RTX 3060 | Excellent performance, modern gaming |
+| **High End** | RTX 4070+, RX 7700 XT+ | Maximum performance, 4K gaming |
+
+</div>
+
+### 🖥️ **Desktop Environment Specific**
+
+<div align="center">
+
+| Desktop Environment | RAM | Storage | Graphics | Best For |
+|---------------------|-----|---------|----------|----------|
+| 🎨 **XFCE** | 2GB+ | +2GB | Integrated OK | Lightweight, older hardware |
+| 🌟 **GNOME** | 3GB+ | +4GB | OpenGL 2.1+ | Modern experience, animations |
+| 💎 **KDE Plasma** | 3GB+ | +4GB | OpenGL 2.1+ | Customization, power users |
+
+</div>
+
+### ⚙️ **Hardware Compatibility**
+
+<div align="center">
+
+| Feature | Support Level | Details |
+|---------|---------------|---------|
+| 🔧 **Architecture** | ✅ **x86_64 only** | Intel 64-bit and AMD64 processors |
+| 🥾 **Boot Mode** | ✅ **UEFI & Legacy BIOS** | Secure Boot compatible |
+| 📶 **Wi-Fi** | ✅ **Most chipsets** | NetworkManager with modern drivers |
+| 🎮 **Graphics** | ✅ **Intel/AMD/NVIDIA** | Open-source drivers included |
+| 🔊 **Audio** | ✅ **PulseAudio/ALSA** | Most modern audio hardware |
+| 🖨️ **Printing** | ✅ **CUPS support** | Most USB and network printers |
+
+</div>
+
+### 📊 **Performance Expectations**
+
+<div align="center">
+
+| Desktop Environment | Boot Time | RAM Usage (Idle) | Recommended For |
+|---------------------|-----------|------------------|-----------------|
+| **Minimal CLI** | ~20-30s | ~300-500MB | Servers, advanced users |
+| **XFCE Desktop** | ~30-45s | ~700-900MB | Daily use, older hardware |
+| **GNOME Desktop** | ~45-60s | ~1.2-1.5GB | Modern workflow, animations |
+| **KDE Plasma** | ~40-55s | ~1.0-1.3GB | Power users, customization |
+
+</div>
+
+### 🚀 **Installation vs Live Environment**
+
+<div align="center">
+
+| Mode | RAM Requirement | Storage | Performance |
+|------|----------------|---------|-------------|
+| 🔴 **Live USB** | +1GB extra | Read-only | Slower, no persistence |
+| 💾 **Installed** | Standard requirements | Full access | Optimal performance |
+
+</div>
+
+> **💡 Pro Tip:** For the best Blue Archive Linux experience, we recommend at least 4GB RAM, an SSD, and a dedicated graphics card. This ensures smooth performance for multitasking, gaming, and enjoying those beautiful Shiroko wallpapers in all their glory!
 
 ---
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/logo.png" alt="Blue Archive Linux" />
+  <img src="/kivotos.png" alt="KivotOS" />
   
   [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/minhmc2007/Blue-Archive-Linux)
  [![Architecture](https://img.shields.io/badge/Architecture-x86__64-ff6b6b?style=for-the-badge&logo=debian&logoColor=white)](#)
